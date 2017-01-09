@@ -34,7 +34,7 @@ We have partnered with Ace in Horton Plaza to provide parking for our students.
 
 You have access to the building 24 hours a day, 7 days a week. Please note that the AC is only turned on Monday-Friday between the hours of 9-5. We provide box fans if you want to come in on the weekend or stay late after class.
 
-- [ ] Receive your building access card and key from administration.
+- [ ] Receive your building access card and key from the administration office.
 
 <hr />
 

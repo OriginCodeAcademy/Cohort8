@@ -72,20 +72,20 @@ Make sure you have signed up for all the necessary accounts and installed the ne
 
 #### Sublime Plugin Recommends
 
-1. packagecontrol.io
+1. packagecontrol.io - follow instructions on this website to install and add package control to you Sublime 3 editor
 
-2. HTML/CSS/JS Prettify
+2. HTML/CSS/JS Prettify - this package can be installed using package control. It will properly indent your code and can be set to fire whenever you save your code.
 
-3. Emmett
+3. Emmett - HTML keyboard shortcuts - install using package control
 
 4. Popular Themes - Material, Brogrammer
 
-To install themes, just use package control. So the process would be:
+To install packages and themes, just use package control. So the process would be:
 
 * ctrl + shift + p or cmd + shift + p
 * Look for Package Control: Install Package
-* Search for the theme and hit enter
-* Set the theme in Preferences -> Settings – User by editing the json property called theme
+* Search for the theme or package and hit enter
+* For themes, set the theme in Preferences -> Settings – User by editing the json property called theme
 
 #### Make sure you are invited to:
 * [ ] Our Slack team

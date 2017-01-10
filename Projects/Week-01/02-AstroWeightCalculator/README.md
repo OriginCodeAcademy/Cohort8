@@ -44,6 +44,6 @@ var planets = [
      
 ## Turn In Instructions
 * Push your changes to GitHub 
-* {Click here to create an issue in the class repository}(https://www.github.com/OriginCodeAcademy/Cohort8/issues/new?title=01-AstroWeightCalculator&body=1.%20Where%20can%20I%20find%20your%20repository%3F%20(Paste%20a%20link%20below)%0A%0A2.%20What%20was%20your%20best%20accomplishment%20in%20this%20project%3F%0A%0A3.%20What%20was%20the%20most%20challenging%20piece%20of%20this%20project%20for%20you%3F)
+* {Click here to create an issue in the class repository}(https://www.github.com/OriginCodeAcademy/Cohort8/issues/new?title=02-AstroWeightCalculator&body=1.%20Where%20can%20I%20find%20your%20repository%3F%20(Paste%20a%20link%20below)%0A%0A2.%20What%20was%20your%20best%20accomplishment%20in%20this%20project%3F%0A%0A3.%20What%20was%20the%20most%20challenging%20piece%20of%20this%20project%20for%20you%3F)
     * Include a link to your repository in the description
     * Answer the questions filled out for you in the description	

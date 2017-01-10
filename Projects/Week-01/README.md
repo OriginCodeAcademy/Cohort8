@@ -70,6 +70,23 @@ Make sure you have signed up for all the necessary accounts and installed the ne
 * [ ] [Git command line utility](https://www.git-scm.com) - You will use this in command prompt to communicate with GitHub.
 * [ ] [NodeJS (LTS)](https://www.nodejs.org/) NodeJS is the swiss army knife of the development world.
 
+#### Sublime Plugin Recommends
+
+1. packagecontrol.io
+
+2. HTML/CSS/JS Prettify
+
+3. Emmett
+
+4. Popular Themes - Material, Brogrammer
+
+To install themes, just use package control. So the process would be:
+
+* ctrl + shift + p or cmd + shift + p
+* Look for Package Control: Install Package
+* Search for the theme and hit enter
+* Set the theme in Preferences -> Settings – User by editing the json property called theme
+
 #### Make sure you are invited to:
 * [ ] Our Slack team
 
@@ -79,7 +96,7 @@ Make sure you have signed up for all the necessary accounts and installed the ne
 [Back to top](#table-of-contents)
 
 - [ ] Review our [Coding Standards](https://github.com/OriginCodeAcademy/Syllabus/blob/master/Best%20Practices/Coding%20Standards/Frontend/Front-end%20Coding%20Standards.md) for Week 1
-- [ ] Complete [01-JavaScriptExercises](https://github.com/OriginCodeAcademy/Cohort8/blob/master/Projects/Week%2001/01-JavaScriptExercises/README.md)
+- [ ] Complete [01-JavaScriptExercises](https://github.com/OriginCodeAcademy/Cohort8/blob/master/Projects/Week-01/01-JavascriptExercises/README.md)
 - [ ] `Extra` Read the first chapter of [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) by Kyle Simpson
 
 ### Finished?

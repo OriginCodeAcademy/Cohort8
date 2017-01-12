@@ -5,7 +5,7 @@ The San Diego real estate market is an excellent place to invest your extra cash
 ## Helpful Images
 
 <img src="http://i.imgur.com/Pn1GDZu.png" />
-<img src="http://i.imgur.com/Amq3Vv9.png" />
+<img src="http://i.imgur.com/t8aMaja.png" />
 
 ## Tasks
 

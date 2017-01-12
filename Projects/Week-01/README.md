@@ -45,6 +45,39 @@ You will be spending a lot of time working on the computer in the next 12 weeks,
 
 The best thing you can do to speed up your computer is to buy and install a Solid State Drive (or SSD) to replace the existing Hard Disk Drive (or HDD) in your computer. For a rundown of the difference between the two and why an SSD provides such a dramatic performance boost - check out the following article. https://www.backblaze.com/blog/hdd-versus-ssd-whats-the-diff/
 
+#### Show Filename Extensions
+
+Mac:  
+
+Choose Finder > Preferences, then click Advanced.
+
+Select or deselect “Show all filename extensions.”
+
+Windows:
+
+* Click Start and then click File Explorer.
+* Click the View tab in File Explorer and then click the Options button (or click the drop down menu and click Change folder and search options)
+* Click the View tab at the top of Folder Options.
+* Click OK.
+
+#### Show Hidden Files and Folders
+
+Mac: 
+
+* Open Terminal found in Finder > Applications > Utilities
+* In Terminal, paste the following: defaults write com.apple.finder AppleShowAllFiles YES.
+* Press return
+* Hold the 'Option/alt' key, then right click on the Finder icon in the dock and click Relaunch
+
+Windows:
+
+* Navigate to the Control Panel
+* Select File Explorer Options (sometimes called Folder options)
+* Open the View Tab
+* Select Show hidden files, folders and drives.
+
+
+
 **Tasks**
 
 - [ ] Ask your instructor to review your hardware.

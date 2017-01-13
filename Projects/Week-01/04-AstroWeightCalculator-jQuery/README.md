@@ -20,7 +20,7 @@ For this assignment, you've been re-hired by the NASA Jet Propulsion Laboratory 
     - A `button` element for the user to calculate their weight based on the above inputs.
     - A `p` element to display the expected output.
 7. Also make sure you reference your `index.js` before the `</body>` tag.
-8. Write the following JavaScript in your `index.js` file
+8. Write the following jQuery in your `index.js` file
     - Create a function that will be called when the user clicks on the `button` element you added to your HTML.
     - This function should grab the values entered by the user from the `input` element and the `select` element.
     - The function should then calculate the weight of the user on the selected planet, and show the weight to the user in the `p` element you added to your HTML.
@@ -40,6 +40,8 @@ var planets = [
   ['Mercury', 0.377],
   ['Sun', 27.9]
 ];     
+11. To build the planets select element, you should user the jQuery each method:  http://api.jquery.com/jquery.each/ and NOT a Javascript for loop. Try to program the logic that goes inside of the each method using just one line of code!
+
 ```
 ## Planet Data 
 `

@@ -2,7 +2,7 @@
 
 #### Install the John Papa snippets
 
-Download the [Sublime Angular Snippets](https://github.com/OriginCodeAcademy/Cohort8/blob/master/Projects/Week-02/sublime-angular-snippets.zip) and extract them into the folder appropriate to your laptop OS:
+Download the [Sublime Angular Snippets](https://github.com/OriginCodeAcademy/Cohort8/raw/master/Projects/Week-02/sublime-angular-snippets.zip) and extract them into the folder appropriate to your laptop OS:
 
 Windows: C:\Users\{username}\AppData\Roaming\Sublime Text 3\Packages
 Mac:  /Users/{username}/Library/Application Support/Sublime Text 3/Packages/JohnPapa/

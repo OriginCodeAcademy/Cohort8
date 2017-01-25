@@ -19,12 +19,14 @@ In this assignment, you will be building an Angular application that allows a us
   
 ## Requirements
 - Must be able to search for a city by name and see weather for that location.
-- Must have a Bootstrap `btn-group` with preloaded cities that when clicked, load weather information for that location.
-- Must have a search history that tracks the term entered and the time that the term was entered.
+- Must have a Bootstrap `btn-group` containing a button for each previously searched city. When clicked, each button should load the weather information for that location.
+- Must have a search history table that tracks the term entered, the time that the term was entered, and the current temperature in degrees Fahrenheit at that time.
 - Must be able to handle errors gracefully (Use the [angular-toaster](https://github.com/Foxandxss/angular-toastr) package to show an error to the user if the call to the API fails. It can be installed in your project using Bower.)
+- All temperatures should be displayed using the Fahrenheit temperature scale.
 
 ## Extra Credit
-- Implement client-side form validation using ngMessages to make the city name input a required field and display a helpful error message such as, "You must enter a city name", if the user clicks the Go! button without entering anything into this field.
+- Implement client-side form validation to make the city name input a required field and display a helpful error message such as, "You must enter a city name", if the user clicks the Go! button without entering anything into this field.
+- Implement a toggle button to convert degrees Fahrenheit to Centigrade for the whole app.
 
 ## Turn in instructions
 * Push your changes to GitHub 

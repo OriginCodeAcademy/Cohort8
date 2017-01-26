@@ -1,4 +1,4 @@
-# 2016-SC-WinterCohort
+# Cohort8
 
 ## ui-router Demo App
 

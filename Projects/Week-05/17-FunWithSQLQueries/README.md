@@ -39,7 +39,7 @@ Create SQL statements to complete the following:
 8.  Return all the company names, city, country and postal code from the Suppliers table with the word 'rue' in their address. The list should ordered alphabetically by company name.
 9.  Return the product id and the total quantities ordered for each product id in the Order Details table.
 10. Return the customer name and customer address of all customers with orders that shipped using Speedy Express.
-11. Return a list of Suppliers containing company name, contact name, contact title and region description.
+11. Return a list of Suppliers that have regions. The list should contain company name, contact name, contact title and region.
 12. Return all product names from the Products table that are condiments.
 13. Return a list of customer names who have no orders in the Orders table.  
 14. Add a shipper named 'Amazon' to the Shippers table using SQL.

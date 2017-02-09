@@ -74,7 +74,7 @@ return _db.Customers.Sum(); // ... this doesn't even compile. Red squiggly lines
 The good example here is to use the `.Where` function, because it returns the actual Customer objects that match the query.
 
 ## Helpful Tips
-- For visual guidance on how to complete this project, watch today's video. 
+- For guidance on how to complete this project, watch the demo video. 
 - For general help about LINQ extension methods, here are some good resources for picking up the basics of LINQ Extension Methods.
 
 - [Official Microsoft Documentation](https://msdn.microsoft.com/en-us/library/system.LINQ.enumerable_methods.aspx) - Fully comprehensive list of all the LINQ Extension Methods you can use.

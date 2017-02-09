@@ -11,7 +11,7 @@ One is a Visual Studio Test project with tests pre-written for you to verify tha
 ## Tasks
 
 * You should make sure you have the `NORTHWND` database in your SQL Server instance.
-* Fork and Clone the [LINQExercises](https://github.com/OriginCodeAcademy/Cohort8/tree/master/Example%20Projects/linq-exercises) repository.
+* Fork and Clone the [LINQExercises](https://github.com/cameronoca/LINQ-exercises) repository.
 * Open the Controllers folder in LINQExercises.Test and explore the pre-written tests.
 * Open the Controllers folder in LINQExercises and explore the pre-written method shells.
 * Your task is to implement these method shells using LINQ and make them pass the tests.
@@ -74,7 +74,7 @@ return _db.Customers.Sum(); // ... this doesn't even compile. Red squiggly lines
 The good example here is to use the `.Where` function, because it returns the actual Customer objects that match the query.
 
 ## Helpful Tips
-- For guidance on how to complete this project, watch the demo video. 
+- For visual guidance on how to complete this project, watch today's video. 
 - For general help about LINQ extension methods, here are some good resources for picking up the basics of LINQ Extension Methods.
 
 - [Official Microsoft Documentation](https://msdn.microsoft.com/en-us/library/system.LINQ.enumerable_methods.aspx) - Fully comprehensive list of all the LINQ Extension Methods you can use.

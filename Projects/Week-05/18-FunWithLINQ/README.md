@@ -11,7 +11,7 @@ One is a Visual Studio Test project with tests pre-written for you to verify tha
 ## Tasks
 
 * You should make sure you have the `NORTHWND` database in your SQL Server instance.
-* Fork and Clone the [LINQExercises](https://github.com/cameronoca/LINQ-exercises) repository.
+* Fork and Clone the [LINQExercises](https://github.com/OriginCodeAcademy/Cohort8/tree/master/Example%20Projects/linq-exercises) repository.
 * Open the Controllers folder in LINQExercises.Test and explore the pre-written tests.
 * Open the Controllers folder in LINQExercises and explore the pre-written method shells.
 * Your task is to implement these method shells using LINQ and make them pass the tests.

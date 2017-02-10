@@ -78,7 +78,7 @@ The good example here is to use the `.Where` function, because it returns the ac
 - For general help about LINQ extension methods, here are some good resources for picking up the basics of LINQ Extension Methods.
 
 - [Official Microsoft Documentation](https://msdn.microsoft.com/en-us/library/system.LINQ.enumerable_methods.aspx) - Fully comprehensive list of all the LINQ Extension Methods you can use.
-- [LINQ Cheat Sheet](http://origincodeacademy.com/pdf/LINQ.pdf) - A cheat sheet of various LINQ Extension Methods and when/how to use them.
+- [LINQ Cheat Sheet](https://download.damieng.com/dotnet/LINQToSQLCheatSheet.pdf) - A cheat sheet of various LINQ Extension Methods and when/how to use them.
 
 ## Extras
 * Write your own controller methods (or, API Endpoints) that return data you think might be useful from the NorthWind database.

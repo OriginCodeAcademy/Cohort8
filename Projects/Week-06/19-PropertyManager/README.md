@@ -1,7 +1,5 @@
 # Property Manager
 
-<img src="http://i.imgur.com/w3zISX1.png" alt="" />
-
 This week, you'll be building a property manager application for people looking for places to rent as well as landlords. Landlords should be able to create an account and add places to rent. Renters need to be able to create an account as well, search for places to rent and keep an interest list of places they like.
 
 Let's get to work!

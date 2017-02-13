@@ -40,9 +40,9 @@ Angular-Local-Storage
 	- Is Landlord checkbox field
 	- Register button
 	- Redirects to Main Search Page if user signs up as a tenant
-	- Redirects to the Landlord Dashboard Page is the user signs up as a landlord
+	- Redirects to the Landlord Dashboard Page if the user signs up as a landlord
 - Landlord Dashboard Page
-	- Displays an editable table of signed-in landlord's rental properties
+	- Displays an editable table of the signed-in landlord's rental properties
 	- Displays a form for adding and editing rental properties to the rental properties table with the following fields:
 	- Company / Building Name field
 	- Address 1 field

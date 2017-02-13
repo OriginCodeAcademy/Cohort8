@@ -20,7 +20,7 @@ CSS Frameworks (You do not HAVE to use Bootstrap)
 Angular
 Angular-UI-Router
 Angular-Toastr
-Angular-localStorage
+Angular-Local-Storage
 ```
 ## App Requirements
 - All users need to be able to register for an account by providing the their name and email and also indicate if they are a landlord or a renter.

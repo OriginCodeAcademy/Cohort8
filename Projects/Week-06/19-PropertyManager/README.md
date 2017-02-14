@@ -16,18 +16,19 @@ ASP Web API
 
 --Frontend--
 HTML5
-## App Requirements
-- All users need to be able to register for an account by providing the their name and email and also indicate if they are a landlord or a renter.
-- Users that register as tenants will be able to search for any available properties and also keep a personal interest list that will hold their search history.
-- Users that register as landlords will be able to add, edit and delete properties for rent on their own property dashboard page and also run searches on available properties on the main search page. However, landlords will not have the ability to keep an interest list on this page.
-- Anonymous, unregistered users should be be able to search for any available properties but will not be able to keep an interest list or access the landlord dashboard.
-
 CSS Frameworks (You do not HAVE to use Bootstrap)
 Angular
 Angular-UI-Router
 Angular-Toastr
 Angular-Local-Storage
 ```
+
+## App Requirements
+- All users need to be able to register for an account by providing the their name and email and also indicate if they are a landlord or a renter.
+- Users that register as tenants will be able to search for any available properties and also keep a personal interest list that will hold their search history.
+- Users that register as landlords will be able to add, edit and delete properties for rent on their own property dashboard page and also run searches on available properties on the main search page. However, landlords will not have the ability to keep an interest list on this page.
+- Anonymous, unregistered users should be be able to search for any available properties but will not be able to keep an interest list or access the landlord dashboard.
+
 ## Pages
 - Main Search Page
 	- Sign In field

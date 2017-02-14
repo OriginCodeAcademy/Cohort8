@@ -125,6 +125,13 @@ City
 State
 ZipCode
 ContactPhone
+Rent
+SquareFootage
+Bedroom
+Bathroom
+PetFriendly
+LeaseTerm
+PropertyImage
 ```
 
 `PropertySearch`
@@ -177,6 +184,15 @@ Bathroom
 	- get and return the value of isPropertyManager for use in your navigational and show/hide decision logic
 
 ## Extra Credit
+
+Instead of just storing the tenant's interest list on the vm object, save the search history into an Interest List table. This will give you practice with the many-to-many relationship:
+
+`InterestList`
+
+```
+PropertyId PK FK
+UserId PK FK
+```
 
 ## Turn in instructions
 * Push your changes to GitHub 

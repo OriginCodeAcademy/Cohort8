@@ -85,11 +85,10 @@ Angular-Local-Storage
 - Create the models you described in our ERD diagram 
 	- User (below the field properties, add an ICollection entity relationship mapping to Property)
 	- Property (below the field properties, add an entity relationship mapping User)
-	- UserPropertySearch (you'll need this just to define the returntype of the results expected in property searches)
+	- UserPropertySearch (you'll need this to define the type of the parameter object passed into multi-criteria property searches)
 - Create an Entity Framework data context
 	- Constructor that defines the base "PropertyManager"
-	- IDbSet<User>
-	- IDbSet<Property>
+	- IDbSet statements for Users and Properties
 	- OnModelCreating with logic that maps users to properties
 		- `User` 1-* `Property` relationship
 - Migrations

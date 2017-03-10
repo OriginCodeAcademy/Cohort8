@@ -2,10 +2,11 @@
 
 In this assignment you will be returning one more time to the venerable Top Spots website.
 
-Your task is to clone the TopSpotsWebApi project and convert it into the MEAN stack -- MongoDB, Express, Angular and Node -- with full CRUD capabilities following the best practices and coding standards presented in the lessons over this week. Refer to the videos of the live demos to setup, scaffold and develop your project.
+Your task is to rebuild the TopSpotsWebApi project as a MEAN stack application -- MongoDB, Express, Angular and Node -- following the best practices and coding standards presented in the lessons over this week. Refer to the videos of the live demos to setup, scaffold and develop your project.
 
 ## Extras
-- Create unit tests for all API CRUD methods.
+- Add full CRUD operations to the application
+- Create unit tests for all API methods.
 - Rebuild the Angular frontend using ReactJS
 
 ## Turn in instructions
